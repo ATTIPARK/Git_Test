@@ -1,5 +1,5 @@
 var b;
 
-b = 12;
+b = 120;
 
 console.log(b);

@@ -1,5 +1,3 @@
-var a;
-
-a = 15;
+var a = 115;
 
 console.log(a);
